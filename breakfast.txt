@@ -1,3 +1,7 @@
 Porridge
 Toast
+<<<<<<< HEAD
 Cornflakes
+=======
+seeds
+>>>>>>> e01038ccd73f92d230671bbd108c970128728109
